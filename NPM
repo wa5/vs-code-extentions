@@ -1,0 +1,7 @@
+NPM
+This is the official Node Package Manager support on VS Code.
+It helps in to manage the package.json file in every imaginable way.
+It flags warnings for dependencies that are defined but not installed,
+or the ones that are installed but not defined in the package.json, 
+it also indicates discrepancies in version control of packages. 
+It also provides for quick run of npm commands with easy shortcuts.

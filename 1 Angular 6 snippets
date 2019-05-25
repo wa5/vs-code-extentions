@@ -1,0 +1,6 @@
+Angular 6 snippets
+This is the official Angular 6 snippets extension for VS Code.
+It follows the Angular style guide and helps to make working with Angular a whole lot easier.
+It has code predictability features coupled with auto-complete functionality compatible with the new version 6. 
+It has support for typescript, service workers, RxJS, ngRx and even Angular Material,
+If you use Angular and do not already have this, you should really consider getting it.

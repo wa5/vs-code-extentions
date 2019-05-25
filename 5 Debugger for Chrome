@@ -1,0 +1,5 @@
+Debugger for Chrome
+This is Chrome’s official debugger extension for VS Code.
+Currently one of the most used extension on the VS Code marketplace.
+It helps you debug your js files running in your chrome browser straight from VS Code,
+how cool is that? It has a host of dedicated contributors and goes a long way to make things very easy for a frontend developer.
